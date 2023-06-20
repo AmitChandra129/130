@@ -1,0 +1,47 @@
+.divspeed
+{
+    float: left;
+
+}
+.divspeedimg
+{
+    width:200px;
+    border-radius: 100px
+
+}
+#speed
+{
+    font-size: 23px;
+margin: 15px;
+}
+.divvolume
+{
+    float: right;
+    margin: 15px;
+}
+.divvolumeimg
+{
+    width:200px;
+    border-radius: 100px
+
+}
+#volume
+{
+    font-size: 23px;
+margin: 15px;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+margin: 0px;
+}
+.playbutton
+{
+    width: 130px;
+    font-size: 25px;
+}
+canvas
+{
+    border: 5px solid white;
+border-radius: 20px;
+}
